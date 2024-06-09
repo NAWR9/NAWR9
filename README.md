@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NAWR9
+- 👋 Hi, I’m Osamah Sadeq
 - 👀 I’m interested in Ai and data science
 - 🌱 I’m currently learning flutter framework
 - 💞️ I’m looking to collaborate on ...
