@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osamah Sadeq
+- 🌱 I’m flutter developer
 - 👀 I’m interested in Ai and data science
-- 🌱 I’m currently learning flutter framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [osamah.saddeq@gmail.com](mailto:osamah.saddeq@gmail.com)
 
